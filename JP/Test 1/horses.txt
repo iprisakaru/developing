@@ -1,0 +1,4 @@
+1001;Pasha;2001;greblya;11;
+1002;Andrey;2002;procrastinator;154;
+1003;Roma;2002;handball;13;
+1004;Mandryk;2000;author;100000;

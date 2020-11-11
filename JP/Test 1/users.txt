@@ -1,0 +1,4 @@
+DavidPaul;dpaul;david@paul.author;12341234;
+MandrykIlya;ilya.mandryk;mandryk@bsu.by;635362;
+LevakovAnatoly;levakov228;levakov@bsu.by;49385472;
+Lukashenko;luka;president@gov.by;26years;
