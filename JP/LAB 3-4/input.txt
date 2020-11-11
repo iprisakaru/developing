@@ -1,0 +1,5 @@
+Coca-Cola;CC;2020;New York;1873;143847;FBI;049894938;info@cola.com;FoodStaff;Soda;cocacola.com;
+Apple;APL;2020;Cupertino;1973;164000;JPMorgan;034549382;support@apple.com;Development;IT;apple.com;
+Google;GOGL;2017;California;1987;397200;Bank of America;02873627;google@gmail.com;Development;IT;google.com;
+Tesla Motors;TSLA;2017;Palo Alto;2003;48500;Solar City;04938473;Press@tesla.com;Development;cars;tesla.com;
+Miratorg;MRTG;2020;Moscow;1995;39000;Sadia;73553425569;info@agrohold.ru;FoodStaff;food;miratorg.ru;
